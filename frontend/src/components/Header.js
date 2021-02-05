@@ -8,7 +8,7 @@ function Header() {
             <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
                 <Container>
                     <LinkContainer to="/">
-                    <Navbar.Brand>Pro Shop</Navbar.Brand>
+                    <Navbar.Brand>Konbersio</Navbar.Brand>
 
                     </LinkContainer>
                     
