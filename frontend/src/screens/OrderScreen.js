@@ -205,7 +205,8 @@ const OrderScreen = ({ match, history }) => {
                       amount={order.totalPrice}
                       onSuccess={successPaymentHandler}
                     />
-                  )}
+                  )
+                  }
                 </ListGroup.Item>
               )}
               {loadingDeliver && <Loader />}
